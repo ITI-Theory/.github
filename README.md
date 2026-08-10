@@ -39,9 +39,9 @@ The science stands alone as science. The art stands alone as art. Together they 
 
 The complete research programme is queryable via NotebookLM.
 
-1. Download the two source files from [`Dist/nlm/`](https://github.com/ITI-Theory/Dist/tree/main/nlm)
-2. Open [notebooklm.google.com](https://notebooklm.google.com) → New Notebook → upload both PDFs
-3. Ask anything — the model cites exact pages
+**Live notebook:** https://notebook.google.com/notebook/ec1a7e74-7666-40ff-acdf-e11baa95766b
+
+Or load your own copy: download the two source files from [`Dist/nlm/`](https://github.com/ITI-Theory/Dist/tree/main/nlm) and upload to [notebooklm.google.com](https://notebooklm.google.com).
 
 **Example questions:**
 - *"Why does trauma form faster than it heals, according to the field geometry?"*
