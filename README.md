@@ -138,6 +138,18 @@ Files: [`Dist/lulu/`](https://github.com/ITI-Theory/Dist/tree/main/lulu)
 
 ---
 
+## Supplementary Materials
+
+Stickers, cheat sheet, and cover artwork: [`Dist/stuff/`](https://github.com/ITI-Theory/Dist/tree/main/stuff)
+
+| Item | What it is |
+|---|---|
+| `ttheory-cheatsheet.pdf` | One-page mathematical reference card — master equation, propagator, OS axioms |
+| `t-theory-sticker.png` | Die-cut sticker design (90 mm or 50 mm circle) |
+| `lulu-cover-template/` | XeLaTeX dust jacket source for Omnibus V2 hardcover |
+
+---
+
 ## Repositories
 
 | Repo | Purpose |
