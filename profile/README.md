@@ -96,7 +96,6 @@ All open access. Download from [`Dist/papers/`](https://github.com/ITI-Theory/Di
 | C1 | Omnibus 1st Edition (P1–P9) | [10.5281/zenodo.20460771](https://doi.org/10.5281/zenodo.20460771) |
 | C1v2 | Omnibus 2nd Edition (P1–P20) | pending DOI |
 | C2 | [T]-Theory Fractal Programme (15 domain books) | pending DOI |
-| C3 | Thesis Format | pending DOI |
 
 ---
 
@@ -132,7 +131,6 @@ Four hardcover volumes available via [lulu.com](https://lulu.com):
 | Volume | Contents |
 |---|---|
 | Omnibus V2 | Complete collected works, all 20 papers |
-| Thesis | A4 thesis format, condensed |
 | [T]-Theory Vol I: Foundation | Domains 1–8 |
 | [T]-Theory Vol II: Application | Domains 9–15 |
 
