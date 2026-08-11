@@ -4,7 +4,7 @@
 
 **A science nested inside an art movement.**
 
-*Universal Somatic Field · 21 papers · Lean 4 proofs · Quantum experiment · D-Wave · Fractal programme*
+*Universal Somatic Field · 22 papers · Lean 4 proofs · Quantum experiment · D-Wave · Fractal programme*
 
 </div>
 
@@ -16,7 +16,7 @@
 
 | Layer | Name | What it is |
 |---|---|---|
-| Inner | **Soma Field Theory (SFT)** | Mathematical physics: a tensor-valued field theory of emotional dynamics, grounded in M-theory and verified in Lean 4. 21 papers published. |
+| Inner | **Soma Field Theory (SFT)** | Mathematical physics: a tensor-valued field theory of emotional dynamics, grounded in M-theory and verified in Lean 4. 22 papers published. |
 | Outer | **[T]-Theory** | Underground art movement: live projection, music, street culture. Science is the engine; the culture is the carrier wave. |
 
 The science stands alone as science. The art stands alone as art. Together they are [T]-Theory.
@@ -30,7 +30,7 @@ The science stands alone as science. The art stands alone as art. Together they 
 | New, no technical background | [A Voyage into Trauma](https://github.com/ITI-Theory/Dist/blob/main/papers/soma-field-book.pdf) |
 | Mental health professional | [A Voyage into Trauma](https://github.com/ITI-Theory/Dist/blob/main/papers/soma-field-book.pdf) → [The Soma Field](https://github.com/ITI-Theory/Dist/blob/main/papers/soma-field-paper.pdf) → [Physical Substrate](https://github.com/ITI-Theory/Dist/blob/main/papers/soma-physical-substrate.pdf) |
 | Physicist / mathematician | [Research Programme](https://github.com/ITI-Theory/Dist/blob/main/papers/soma-field-synthesis.pdf) → [The Soma Field](https://github.com/ITI-Theory/Dist/blob/main/papers/soma-field-paper.pdf) → [Quantum](https://github.com/ITI-Theory/Dist/blob/main/papers/quantum-soma-penrose.pdf) |
-| Want everything | [Omnibus V2 (all 21 papers)](https://github.com/ITI-Theory/Dist/blob/main/papers/omnibus-a4.pdf) |
+| Want everything | [Omnibus V2 (all 22 papers)](https://github.com/ITI-Theory/Dist/blob/main/papers/omnibus-a4.pdf) |
 | Want to ask it questions | See **Ask the Theory** below |
 
 ---
@@ -131,7 +131,7 @@ Four hardcover volumes available via [lulu.com](https://lulu.com):
 
 | Volume | Contents |
 |---|---|
-| Omnibus V2 | Complete collected works, all 21 papers |
+| Omnibus V2 | Complete collected works, all 22 papers |
 | [T]-Theory Vol I: Foundation | Domains 1–8 |
 | [T]-Theory Vol II: Application | Domains 9–15 |
 
