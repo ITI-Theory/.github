@@ -84,6 +84,9 @@ All open access. Download from [`Dist/papers/`](https://github.com/ITI-Theory/Di
 | P19 | Swarm Propagator | pending DOI |
 | P20 | The Universal Somatic Field (Scale-Invariant Oscillators) | pending DOI |
 | P21 | The Cosmological Constant as USF Vacuum Amplitude (Λ≡⟨trΦ⟩₀) | not yet submitted |
+| P22 | Dark Matter as Spatial Block Vacuum (Ω_DM = 3/11) | not yet submitted |
+| P23 | [T]-Theory Fixed Points (USF describes its own propagation) | not yet submitted |
+| P24 | G₂ Symmetry Breaking in the BRECVEMA Tensor (W8ℝ = ⁶₅I₈ + δW) | not yet submitted |
 
 ### Datasets & Proofs
 | ID | Title | DOI |
