@@ -1,10 +1,16 @@
 <div align="center">
 
+<a href="https://github.com/ITI-Theory/U/tree/main/apps/instrument/visuals/soma-field-operator">
+  <img src="https://raw.githubusercontent.com/ITI-Theory/.github/main/profile/soma-field-operator.png" alt="[T]-Theory Soma Field Operator: a human-shaped 11D field map" width="860" />
+</a>
+
 # [T]-Theory
 
 **A science nested inside an art movement.**
 
-*Universal Somatic Field · 24 papers · Lean 4 proofs · Quantum experiment · D-Wave · Fractal programme*
+*Universal Somatic Field · formal proof · quantum experiment · fractal programme · live field visualisation*
+
+[OPEN THE SOMA FIELD OPERATOR](https://github.com/ITI-Theory/U/tree/main/apps/instrument/visuals/soma-field-operator)
 
 </div>
 

@@ -1,47 +1,54 @@
 <div align="center">
 
+<a href="https://github.com/ITI-Theory/U/tree/main/apps/instrument/visuals/soma-field-operator">
+  <img src="./soma-field-operator.png" alt="[T]-Theory Soma Field Operator: a human-shaped 11D field map" width="860" />
+</a>
+
 # [T]-Theory
 
 **A science nested inside an art movement.**
 
-*Universal Somatic Field · 24 papers · Lean 4 proofs · Quantum experiment · D-Wave · Fractal programme*
+*Universal Somatic Field · formal proof · quantum experiment · fractal programme · live field visualisation*
+
+[OPEN THE SOMA FIELD OPERATOR](https://github.com/ITI-Theory/U/tree/main/apps/instrument/visuals/soma-field-operator)
 
 </div>
 
 ---
 
-## What is this?
+## The Programme
 
-**[T]-Theory** is a research programme with two layers:
+**[T]-Theory** has two deliberate layers:
 
-| Layer | Name | What it is |
-|---|---|---|
-| Inner | **Soma Field Theory (SFT)** | Mathematical physics: a tensor-valued field theory of emotional dynamics, grounded in M-theory and verified in Lean 4. 24 papers published. |
-| Outer | **[T]-Theory** | Underground art movement: live projection, music, street culture. Science is the engine; the culture is the carrier wave. |
+| Layer | Role |
+|---|---|
+| **Soma Field Theory** | The formal research engine: field dynamics, Lean 4 proofs, experiments, papers, and datasets. |
+| **[T]-Theory** | The live cultural system: projection, music, body-scale field visualisation, and the Hologram World. |
 
-The science stands alone as science. The art stands alone as art. Together they are [T]-Theory.
+The [Soma Field Operator](https://github.com/ITI-Theory/U/tree/main/apps/instrument/visuals/soma-field-operator) is the shared visual template: a human-shaped 11D field map where soma, nervous system, limbic coupling, and cortex become live controllable layers.
 
 ---
 
-## The Science — Where to Start
+## Start Here
 
 | If you are… | Read first |
 |---|---|
 | New, no technical background | [A Voyage into Trauma](https://github.com/ITI-Theory/Dist/blob/main/papers/soma-field-book.pdf) |
 | Mental health professional | [A Voyage into Trauma](https://github.com/ITI-Theory/Dist/blob/main/papers/soma-field-book.pdf) → [The Soma Field](https://github.com/ITI-Theory/Dist/blob/main/papers/soma-field-paper.pdf) → [Physical Substrate](https://github.com/ITI-Theory/Dist/blob/main/papers/soma-physical-substrate.pdf) |
 | Physicist / mathematician | [Research Programme](https://github.com/ITI-Theory/Dist/blob/main/papers/soma-field-synthesis.pdf) → [The Soma Field](https://github.com/ITI-Theory/Dist/blob/main/papers/soma-field-paper.pdf) → [Quantum](https://github.com/ITI-Theory/Dist/blob/main/papers/quantum-soma-penrose.pdf) |
-| Want everything | [Omnibus V2 (all 24 papers)](https://github.com/ITI-Theory/Dist/blob/main/papers/omnibus-a4.pdf) |
-| Want to ask it questions | See **Ask the Theory** below |
+| Want the scientific corpus | [Papers omnibus](https://github.com/ITI-Theory/Dist/blob/main/papers/omnibus-a4.pdf) |
+| Want the 15-domain programme | [Fractal omnibus](https://github.com/ITI-Theory/Dist/blob/main/papers/ttheory-omnibus.pdf) |
+| Want to query the work | [NotebookLM sources](https://github.com/ITI-Theory/Dist/tree/main/nlm-min) |
 
 ---
 
-## Ask the Theory
+## Ask The Theory
 
 The complete research programme is queryable via NotebookLM.
 
 **Live notebook:** https://notebook.google.com/notebook/ec1a7e74-7666-40ff-acdf-e11baa95766b
 
-Or load your own copy: download the two source files from [`Dist/nlm/`](https://github.com/ITI-Theory/Dist/tree/main/nlm) and upload to [notebooklm.google.com](https://notebooklm.google.com).
+Or load your own copy: download the two core sources from [`Dist/nlm-min/`](https://github.com/ITI-Theory/Dist/tree/main/nlm-min), or select the expanded corpus from [`Dist/nlm-max/`](https://github.com/ITI-Theory/Dist/tree/main/nlm-max).
 
 **Example questions:**
 - *"Why does trauma form faster than it heals, according to the field geometry?"*
@@ -52,64 +59,24 @@ Or load your own copy: download the two source files from [`Dist/nlm/`](https://
 
 ---
 
-## The 20 Papers
+## Research Record
 
-All open access. Download from [`Dist/papers/`](https://github.com/ITI-Theory/Dist/tree/main/papers) or via Zenodo DOI.
+The current registry, open PDFs, NotebookLM packages, print candidates, and Zenodo deposit scope live in the distribution repository:
 
-### Foundation
-| ID | Title | DOI |
-|---|---|---|
-| P1 | The Soma-Field: A Wave-Based Model of Emotional Dynamics | [10.5281/zenodo.20350515](https://doi.org/10.5281/zenodo.20350515) |
-| P2 | Quantum Topology and Trauma | [10.5281/zenodo.20351230](https://doi.org/10.5281/zenodo.20351230) |
-| P3 | Mathematical Co-identification | [10.5281/zenodo.20287981](https://doi.org/10.5281/zenodo.20287981) |
-| P4 | The Soma-Field Research Programme | [10.5281/zenodo.20460118](https://doi.org/10.5281/zenodo.20460118) |
-| P5 | The Physical Substrate of the Soma-Field | [10.5281/zenodo.20460357](https://doi.org/10.5281/zenodo.20460357) |
-| P6 | A Voyage into Trauma | [10.5281/zenodo.20460455](https://doi.org/10.5281/zenodo.20460455) |
-| P7 | Field Notes from the Inside (Patient POV) | [10.5281/zenodo.20460523](https://doi.org/10.5281/zenodo.20460523) |
-| P8 | The Tensor | [10.5281/zenodo.20460613](https://doi.org/10.5281/zenodo.20460613) |
-| P9 | Music-Induced Affect Dynamics | [10.5281/zenodo.20460685](https://doi.org/10.5281/zenodo.20460685) |
-
-### Extensions (2026)
-| ID | Title | Status |
-|---|---|---|
-| P10 | Temporal Dynamics & the Memory of Feeling | pending DOI |
-| P11 | The Zoomable Universal Somatic Field | pending DOI |
-| P12 | Experimental Benchmarks | pending DOI |
-| P13 | The Missing Limbic Layer (FM-HN) | pending DOI |
-| P14 | **The USF as a Euclidean QFT** *(OS axioms proved in Lean 4)* | pending DOI |
-| P15 | OS Axioms for the Interacting USF | pending DOI |
-| P16 | The Geographic Somatic Field | pending DOI |
-| P17 | Gestalt Field Dynamics | pending DOI |
-| P18 | The Pre-Verbal Manifold | pending DOI |
-| P19 | Swarm Propagator | pending DOI |
-| P20 | The Universal Somatic Field (Scale-Invariant Oscillators) | pending DOI |
-| P21 | The Cosmological Constant as USF Vacuum Amplitude (Λ≡⟨trΦ⟩₀) | not yet submitted |
-| P22 | Dark Matter as Spatial Block Vacuum (Ω_DM = 3/11) | not yet submitted |
-| P23 | [T]-Theory Fixed Points (USF describes its own propagation) | not yet submitted |
-| P24 | G₂ Symmetry Breaking in the BRECVEMA Tensor (W8ℝ = ⁶₅I₈ + δW) | not yet submitted |
-
-### Datasets & Proofs
-| ID | Title | DOI |
-|---|---|---|
-| D1 | SFT Applied: A Worked Clinical Example | [10.5281/zenodo.20459825](https://doi.org/10.5281/zenodo.20459825) |
-| D2 | Lean 4 Formal Proofs Appendix | [10.5281/zenodo.20437858](https://doi.org/10.5281/zenodo.20437858) |
-
-### Collected Works
-| ID | Title | DOI |
-|---|---|---|
-| C1 | Omnibus 1st Edition (P1–P9) | [10.5281/zenodo.20460771](https://doi.org/10.5281/zenodo.20460771) |
-| C1v2 | Omnibus 2nd Edition (P1–P20) | pending DOI |
-| C2 | [T]-Theory Fractal Programme (15 domain books) | pending DOI |
+- [Read the papers](https://github.com/ITI-Theory/Dist/tree/main/papers)
+- [Browse the master registry](https://github.com/ITI-Theory/Dist/blob/main/PAPERS.yaml)
+- [Access the formal proofs](https://github.com/ITI-Theory/U/tree/main/paper/proofs)
+- [Open the full research workspace](https://github.com/ITI-Theory/U)
 
 ---
 
-## The Fractal Programme
+## Fractal Programme
 
 The same field equation applied to 15 academic disciplines — each with a domain introduction, curated papers, and a research agenda:
 
 Physics · Neuroscience · Clinical Psychology · Computer Science · Formal Mathematics · Consciousness Studies · Complex Systems · Music & Arts · Geophysics · Social Science · Economics · Law · PPE · Psychiatry/ASD · Philosophy
 
-Download: [`C2-ttheory-fractal-programme.pdf`](https://github.com/ITI-Theory/Dist/blob/main/papers/ttheory-omnibus.pdf)
+Read the programme as one volume or explore its individual field domains through the [distribution library](https://github.com/ITI-Theory/Dist/tree/main/papers).
 
 ---
 
@@ -128,17 +95,9 @@ Proof repository: [`ITI-Theory/U`](https://github.com/ITI-Theory/U) → `paper/p
 
 ---
 
-## Print Editions (Lulu)
+## Print Editions
 
-Four hardcover volumes available via [lulu.com](https://lulu.com):
-
-| Volume | Contents |
-|---|---|
-| Omnibus V2 | Complete collected works, all 24 papers |
-| [T]-Theory Vol I: Foundation | Domains 1–8 |
-| [T]-Theory Vol II: Application | Domains 9–15 |
-
-Files: [`Dist/lulu/`](https://github.com/ITI-Theory/Dist/tree/main/lulu)
+The print rehearsal set contains the Papers omnibus, [T]-Theory Volumes I and II, and all fifteen domain books. Current interiors and cover assets are maintained in [`Dist/lulu/`](https://github.com/ITI-Theory/Dist/tree/main/lulu).
 
 ---
 
@@ -150,7 +109,7 @@ Stickers, cheat sheet, and cover artwork: [`Dist/stuff/`](https://github.com/ITI
 |---|---|
 | `ttheory-cheatsheet.pdf` | One-page mathematical reference card — master equation, propagator, OS axioms |
 | `t-theory-sticker.png` | Die-cut sticker design (90 mm or 50 mm circle) |
-| `lulu-cover-template/` | XeLaTeX dust jacket source for Omnibus V2 hardcover |
+| `soma-field-operator/` | Live 11D human field-map prototype and paper-frame exporter |
 
 ---
 
