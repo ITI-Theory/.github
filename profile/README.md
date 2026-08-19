@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/ITI-Theory/U/tree/main/apps/instrument/visuals/soma-field-operator">
+<a href="https://iti-theory.github.io/Dist/soma-field-operator/">
   <img src="./soma-field-operator.png" alt="[T]-Theory Soma Field Operator: a human-shaped 11D field map" width="860" />
 </a>
 
@@ -10,7 +10,7 @@
 
 *Universal Somatic Field · formal proof · quantum experiment · fractal programme · live field visualisation*
 
-[OPEN THE SOMA FIELD OPERATOR](https://github.com/ITI-Theory/U/tree/main/apps/instrument/visuals/soma-field-operator)
+[OPEN THE SOMA FIELD OPERATOR](https://iti-theory.github.io/Dist/soma-field-operator/)
 
 </div>
 
@@ -25,7 +25,7 @@
 | **Soma Field Theory** | The formal research engine: field dynamics, Lean 4 proofs, experiments, papers, and datasets. |
 | **[T]-Theory** | The live cultural system: projection, music, body-scale field visualisation, and the Hologram World. |
 
-The [Soma Field Operator](https://github.com/ITI-Theory/U/tree/main/apps/instrument/visuals/soma-field-operator) is the shared visual template: a human-shaped 11D field map where soma, nervous system, limbic coupling, and cortex become live controllable layers.
+The [Soma Field Operator](https://iti-theory.github.io/Dist/soma-field-operator/) is the shared visual template: a human-shaped 11D field map where soma, nervous system, limbic coupling, and cortex become live controllable layers.
 
 ---
 

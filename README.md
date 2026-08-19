@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/ITI-Theory/U/tree/main/apps/instrument/visuals/soma-field-operator">
+<a href="https://iti-theory.github.io/Dist/soma-field-operator/">
   <img src="https://raw.githubusercontent.com/ITI-Theory/.github/main/profile/soma-field-operator.png" alt="[T]-Theory Soma Field Operator: a human-shaped 11D field map" width="860" />
 </a>
 
@@ -10,7 +10,7 @@
 
 *Universal Somatic Field · formal proof · quantum experiment · fractal programme · live field visualisation*
 
-[OPEN THE SOMA FIELD OPERATOR](https://github.com/ITI-Theory/U/tree/main/apps/instrument/visuals/soma-field-operator)
+[OPEN THE SOMA FIELD OPERATOR](https://iti-theory.github.io/Dist/soma-field-operator/)
 
 </div>
 
